@@ -2,7 +2,7 @@
 This website contain a meme I made using the R code.
 
 ## My meme!
-![](my_meme.png)
+![](my_meme.PNG)
 
 A summary of my inspiration for the meme is:
 

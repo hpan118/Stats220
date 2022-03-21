@@ -7,4 +7,4 @@ This repo is for Stats220 Assignment 1
 - use of pipes e.g.`%>%`
 - use of named objects e.g. `meme <- image_read(url)`
 
-You can also check out my website [here]!(https://hpan118.github.io/Stats220/)
+You can also check out my website [test website!]!(https://hpan118.github.io/Stats220/)
